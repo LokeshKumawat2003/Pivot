@@ -1,5 +1,7 @@
 # Pokémon  Web Application
-[a link](https://67667a96b09a29d618f49aa9--adorable-shortbread-c648ef.netlify.app/)
+[view project](https://67667a96b09a29d618f49aa9--adorable-shortbread-c648ef.netlify.app/)
+
+
 ## Overview
 
 The Pokémon Explorer Web Application is a frontend project built with React, Next.js,  and Tailwind CSS. The goal is to create an interactive application that allows users to explore various Pokémon through a series of progressive challenges.
